@@ -1,0 +1,1001 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+27,40.3,153.8,4.82,No,Delhi,Government Employee,Low
+50,40.0,159.7,12.86,Yes,Pune,Doctor,Low
+49,40.0,167.0,3.39,No,Delhi,Business,Low
+25,40.0,159.2,2.76,No,Mumbai,Doctor,Low
+39,60.0,174.4,5.17,No,Mumbai,Government Employee,Low
+38,42.7,168.4,3.23,No,Patna,Accountant,Low
+44,46.8,162.2,1.5,No,Delhi,Doctor,Low
+50,42.1,177.4,5.25,No,Delhi,Doctor,Low
+38,46.2,170.7,4.16,No,Chennai,Government Employee,Low
+18,40.0,167.7,8.85,No,Patna,Teacher,Low
+35,49.4,165.3,5.45,No,Pune,Government Employee,Low
+32,51.0,175.8,3.97,No,Mumbai,Other,Low
+18,46.1,155.5,4.45,No,Bangalore,Student,Low
+54,58.0,173.3,4.76,No,Jaipur,Software Developer,Low
+64,54.9,162.8,6.72,No,Mumbai,Accountant,Low
+31,42.4,150.3,11.98,No,Kolkata,Manager,Low
+33,54.9,170.0,5.69,No,Jaipur,Business,Low
+47,40.0,165.7,22.7,No,Hyderabad,Business,Low
+22,52.2,172.6,5.23,Yes,Kolkata,Engineer,Low
+29,45.1,172.4,2.94,No,Hyderabad,Student,Low
+53,44.9,163.6,19.56,No,Pune,Other,Low
+37,50.6,163.3,7.72,No,Delhi,Teacher,Low
+49,66.4,169.3,18.41,No,Chennai,Engineer,Low
+48,50.0,170.3,3.6,No,Delhi,Business,Low
+40,43.2,170.3,4.83,No,Jaipur,Government Employee,Low
+26,58.5,169.1,3.56,No,Jaipur,Teacher,Low
+25,61.7,166.9,9.44,No,Jaipur,Manager,Low
+55,51.1,161.5,18.26,No,Patna,Software Developer,Low
+62,59.6,166.0,8.01,No,Hyderabad,Teacher,Low
+36,40.0,168.1,3.01,No,Chennai,Accountant,Low
+46,40.0,155.6,1.55,No,Mumbai,Doctor,Low
+31,51.5,169.0,2.47,Yes,Kolkata,Business,Low
+63,40.0,155.0,3.78,No,Patna,Other,Low
+62,55.6,171.9,4.66,No,Bangalore,Manager,Low
+41,47.5,166.5,1.55,Yes,Delhi,Accountant,Medium
+49,43.7,169.5,21.49,No,Pune,Doctor,Low
+58,53.0,176.1,16.15,Yes,Bangalore,Engineer,Medium
+26,44.8,166.3,2.82,No,Hyderabad,Government Employee,Low
+19,43.0,158.1,14.76,No,Bangalore,Accountant,Low
+53,58.9,170.2,4.0,No,Ranchi,Government Employee,Low
+44,69.6,180.8,13.24,No,Mumbai,Software Developer,Low
+24,71.9,184.9,6.34,No,Kolkata,Business,Low
+37,57.4,176.9,25.38,No,Jaipur,Software Developer,Low
+53,61.4,175.0,12.93,No,Hyderabad,Accountant,Low
+63,64.8,181.1,18.16,No,Hyderabad,Student,Low
+52,40.0,163.8,3.12,No,Hyderabad,Government Employee,Low
+39,44.9,170.8,4.4,No,Delhi,Engineer,Low
+62,55.9,161.2,14.14,No,Jaipur,Business,Low
+34,61.6,181.0,5.07,Yes,Mumbai,Manager,Low
+60,54.4,159.2,2.49,No,Delhi,Manager,Low
+58,57.6,168.7,11.81,No,Jaipur,Accountant,Low
+43,58.0,161.2,1.5,No,Hyderabad,Teacher,Low
+47,47.3,172.1,2.58,Yes,Jaipur,Accountant,Low
+36,47.8,178.0,3.73,Yes,Pune,Accountant,Low
+38,58.0,162.6,23.32,Yes,Kolkata,Software Developer,Low
+59,55.9,163.6,1.5,No,Chennai,Business,Low
+61,54.0,169.1,4.05,Yes,Bangalore,Accountant,Medium
+28,49.8,160.3,11.31,Yes,Ranchi,Teacher,Low
+49,50.4,161.2,2.84,No,Jaipur,Government Employee,Low
+47,40.0,145.0,4.99,No,Kolkata,Manager,Low
+42,64.5,188.7,5.81,Yes,Mumbai,Student,Medium
+25,55.1,171.0,7.64,No,Mumbai,Government Employee,Low
+21,60.7,163.8,6.95,Yes,Kolkata,Engineer,Medium
+45,40.0,172.3,4.25,No,Ranchi,Business,Low
+31,57.1,170.9,5.66,No,Mumbai,Other,Low
+20,64.3,160.5,3.72,Yes,Pune,Engineer,Medium
+56,50.9,173.0,10.72,No,Chennai,Government Employee,Low
+23,51.1,186.1,5.72,No,Patna,Manager,Low
+51,54.8,165.6,4.04,No,Kolkata,Engineer,Low
+62,61.7,171.1,9.41,No,Kolkata,Other,Low
+52,57.4,164.2,7.35,No,Pune,Manager,Low
+48,42.7,171.8,8.59,No,Jaipur,Teacher,Low
+64,65.1,189.6,5.29,No,Chennai,Software Developer,Low
+64,47.8,159.9,4.69,No,Patna,Business,Low
+52,49.6,168.7,7.75,No,Delhi,Business,Low
+55,40.0,154.6,10.19,No,Pune,Business,Low
+36,62.5,159.1,11.31,No,Chennai,Business,Low
+38,45.7,164.3,4.6,No,Mumbai,Accountant,Low
+36,48.9,171.3,7.07,No,Mumbai,Doctor,Low
+21,48.4,161.1,5.02,Yes,Kolkata,Business,Medium
+28,55.6,168.4,3.86,No,Bangalore,Teacher,Low
+46,58.2,172.3,5.84,Yes,Chennai,Engineer,Low
+26,47.0,163.4,34.54,No,Jaipur,Doctor,Low
+35,61.4,171.0,6.23,No,Pune,Business,Low
+65,53.6,169.5,6.91,Yes,Ranchi,Teacher,Medium
+38,52.2,177.0,3.73,No,Bangalore,Business,Low
+36,56.8,164.7,4.11,Yes,Jaipur,Other,Medium
+53,49.4,164.6,6.05,No,Ranchi,Accountant,Low
+18,53.1,165.2,8.6,No,Mumbai,Business,Low
+25,67.3,178.7,6.92,Yes,Chennai,Engineer,Medium
+50,44.6,173.8,4.48,Yes,Patna,Government Employee,Low
+51,43.2,146.2,3.46,No,Pune,Manager,Low
+60,58.0,181.3,7.91,Yes,Jaipur,Business,Medium
+43,46.2,172.7,1.5,No,Jaipur,Student,Low
+43,59.2,173.0,3.1,No,Delhi,Teacher,Low
+59,57.0,169.8,4.25,No,Kolkata,Other,Low
+40,69.3,171.5,15.09,Yes,Kolkata,Manager,Medium
+42,65.9,190.0,8.85,No,Pune,Accountant,Low
+23,46.0,160.3,5.76,No,Delhi,Manager,Low
+27,60.8,172.9,7.93,No,Jaipur,Engineer,Low
+34,64.9,162.8,2.03,No,Pune,Accountant,Low
+54,50.6,170.0,3.89,Yes,Pune,Accountant,Low
+62,53.9,166.1,6.64,No,Jaipur,Software Developer,Low
+28,40.0,171.4,2.74,Yes,Patna,Business,Low
+62,68.7,188.6,8.07,No,Hyderabad,Manager,Low
+23,65.0,174.8,3.24,No,Chennai,Engineer,Low
+52,48.7,164.9,13.09,No,Chennai,Doctor,Low
+38,65.0,176.4,4.29,Yes,Pune,Business,Medium
+62,56.1,173.3,7.45,No,Jaipur,Engineer,Low
+42,48.4,156.3,16.85,No,Ranchi,Teacher,Low
+63,40.0,163.0,18.53,No,Kolkata,Software Developer,Low
+22,46.0,166.0,5.49,No,Mumbai,Government Employee,Low
+47,54.7,166.3,3.39,No,Jaipur,Software Developer,Low
+55,58.4,171.9,3.08,No,Ranchi,Teacher,Low
+41,60.8,170.5,5.26,No,Pune,Accountant,Low
+52,64.3,173.1,12.55,No,Pune,Accountant,Low
+58,62.4,169.9,3.52,Yes,Hyderabad,Accountant,Medium
+19,40.1,166.5,4.33,Yes,Pune,Doctor,Low
+25,63.8,174.9,7.38,Yes,Patna,Other,Medium
+42,46.3,163.3,5.01,No,Delhi,Student,Low
+32,64.9,181.8,2.59,No,Mumbai,Manager,Low
+56,64.8,171.2,9.95,No,Mumbai,Engineer,Low
+58,68.2,182.7,11.04,No,Patna,Other,Low
+48,53.8,175.5,3.64,No,Kolkata,Government Employee,Low
+33,40.0,167.1,3.98,No,Chennai,Other,Low
+56,42.9,171.9,7.34,No,Patna,Teacher,Low
+29,69.3,185.2,1.78,No,Patna,Accountant,Low
+40,40.0,161.9,5.74,No,Patna,Government Employee,Low
+18,46.0,169.2,5.71,No,Bangalore,Teacher,Low
+32,40.0,159.5,5.99,No,Pune,Other,Low
+33,48.2,157.7,9.7,Yes,Jaipur,Engineer,Low
+57,62.6,166.1,3.08,No,Hyderabad,Student,Low
+33,53.5,169.9,4.18,No,Bangalore,Engineer,Low
+23,81.8,173.2,1.5,No,Pune,Teacher,Low
+19,40.0,162.0,3.44,No,Mumbai,Manager,Low
+64,58.6,164.3,7.73,Yes,Kolkata,Manager,Medium
+65,40.0,145.0,4.72,No,Hyderabad,Student,Low
+36,40.9,156.5,8.11,No,Chennai,Government Employee,Low
+29,48.1,166.6,1.77,No,Bangalore,Engineer,Low
+53,48.2,164.0,13.09,Yes,Chennai,Software Developer,Medium
+42,58.3,168.2,6.15,Yes,Mumbai,Student,Medium
+49,59.4,176.8,2.19,Yes,Pune,Business,Medium
+45,40.0,161.1,3.73,No,Chennai,Other,Low
+20,52.4,163.7,3.49,No,Mumbai,Student,Low
+64,42.5,172.6,4.25,No,Delhi,Accountant,Low
+55,71.2,174.0,6.6,No,Ranchi,Government Employee,Low
+51,51.4,162.5,2.47,No,Kolkata,Engineer,Low
+20,56.2,174.4,5.25,No,Kolkata,Accountant,Low
+34,48.0,155.7,9.33,No,Hyderabad,Doctor,Low
+39,59.8,190.1,3.48,No,Chennai,Teacher,Low
+53,61.0,175.7,4.58,No,Patna,Engineer,Low
+60,40.0,157.0,7.46,No,Delhi,Doctor,Low
+23,45.5,168.0,6.2,No,Bangalore,Accountant,Low
+49,70.9,178.1,18.68,No,Bangalore,Accountant,Low
+39,54.0,171.6,6.54,No,Jaipur,Student,Low
+46,43.7,166.0,2.88,No,Delhi,Engineer,Low
+31,55.8,170.1,4.94,No,Patna,Student,Low
+27,52.1,171.7,9.43,No,Hyderabad,Accountant,Low
+57,49.5,163.9,2.55,No,Chennai,Manager,Low
+60,67.4,180.0,3.87,No,Ranchi,Other,Low
+42,66.1,178.7,4.03,Yes,Pune,Engineer,Low
+27,49.4,175.5,7.47,No,Chennai,Manager,Low
+44,67.9,165.5,3.68,No,Ranchi,Accountant,Low
+27,40.0,152.8,2.31,No,Delhi,Other,Low
+38,40.0,161.9,3.56,Yes,Bangalore,Engineer,Low
+50,42.0,153.7,2.21,No,Hyderabad,Student,Low
+35,49.5,164.0,5.8,No,Pune,Engineer,Low
+32,61.8,179.2,19.1,No,Chennai,Engineer,Low
+24,49.5,167.6,7.27,No,Delhi,Manager,Low
+38,51.2,182.0,20.69,No,Pune,Doctor,Low
+50,52.4,164.8,14.79,Yes,Hyderabad,Other,Low
+43,55.5,171.5,2.52,No,Patna,Student,Low
+59,48.0,175.4,6.79,No,Ranchi,Government Employee,Low
+28,53.1,166.9,8.17,No,Patna,Doctor,Low
+47,58.1,186.7,2.6,No,Ranchi,Doctor,Low
+35,58.4,178.0,7.7,No,Pune,Engineer,Low
+57,40.0,169.6,10.59,No,Chennai,Teacher,Low
+40,45.2,177.7,4.77,No,Ranchi,Government Employee,Low
+38,49.1,157.1,2.95,Yes,Pune,Engineer,Medium
+33,43.0,172.9,13.78,Yes,Patna,Student,Low
+27,55.1,172.7,13.09,No,Pune,Student,Low
+23,54.7,167.8,9.54,No,Hyderabad,Engineer,Low
+59,63.0,179.5,7.43,No,Hyderabad,Engineer,Low
+29,48.4,172.4,4.97,No,Mumbai,Manager,Low
+28,57.6,183.4,2.76,No,Jaipur,Accountant,Low
+22,41.9,163.1,3.24,Yes,Mumbai,Manager,Low
+48,61.9,163.2,1.51,No,Mumbai,Accountant,Low
+59,54.5,172.6,1.5,No,Chennai,Business,Low
+51,49.0,157.2,4.47,No,Kolkata,Other,Low
+50,42.2,169.3,14.48,No,Bangalore,Accountant,Low
+59,48.4,160.9,3.76,No,Delhi,Doctor,Low
+34,40.0,145.0,5.39,No,Ranchi,Software Developer,Low
+30,55.6,176.3,2.93,No,Mumbai,Business,Low
+41,59.5,166.3,6.01,Yes,Pune,Teacher,Low
+50,73.2,177.1,10.45,Yes,Ranchi,Accountant,Medium
+19,77.8,172.0,10.6,No,Hyderabad,Doctor,Low
+47,49.8,163.0,12.92,Yes,Kolkata,Manager,Low
+19,65.2,177.3,21.83,No,Patna,Other,Low
+64,42.5,174.3,5.04,Yes,Jaipur,Teacher,Low
+31,49.4,171.7,4.0,Yes,Delhi,Manager,Low
+44,51.5,164.3,8.49,Yes,Pune,Engineer,Medium
+46,40.0,145.0,4.83,No,Ranchi,Teacher,Low
+28,47.3,170.8,9.82,No,Bangalore,Doctor,Low
+53,44.4,186.7,2.9,No,Chennai,Other,Low
+30,40.0,169.1,1.87,No,Bangalore,Business,Low
+38,55.1,173.7,8.26,No,Jaipur,Other,Low
+45,54.5,178.4,5.12,No,Mumbai,Engineer,Low
+54,49.2,171.6,9.43,No,Kolkata,Accountant,Low
+36,49.6,162.8,4.44,No,Patna,Teacher,Low
+46,52.7,157.5,4.28,No,Mumbai,Engineer,Low
+21,40.0,163.7,4.46,Yes,Mumbai,Engineer,Low
+44,56.6,181.5,2.69,No,Mumbai,Software Developer,Low
+43,55.0,183.3,2.65,No,Mumbai,Accountant,Low
+34,43.8,174.8,6.31,Yes,Patna,Doctor,Low
+62,57.2,180.5,8.42,No,Patna,Other,Low
+38,51.9,172.2,5.17,No,Mumbai,Government Employee,Low
+20,40.0,168.9,4.6,No,Jaipur,Software Developer,Low
+58,40.0,153.9,4.99,No,Hyderabad,Engineer,Low
+64,45.5,162.8,5.63,No,Pune,Accountant,Low
+43,40.0,160.8,2.61,Yes,Hyderabad,Software Developer,Low
+53,46.9,159.7,3.29,No,Ranchi,Doctor,Low
+47,58.7,173.0,5.14,No,Bangalore,Other,Low
+41,56.0,163.0,3.99,Yes,Bangalore,Accountant,Low
+37,40.0,148.1,2.91,No,Delhi,Accountant,Low
+43,46.5,164.7,7.91,No,Delhi,Government Employee,Low
+32,48.3,170.3,22.84,No,Mumbai,Software Developer,Low
+28,59.4,167.6,2.63,No,Jaipur,Government Employee,Low
+58,42.4,163.3,3.26,No,Jaipur,Engineer,Low
+31,58.2,170.8,8.13,No,Mumbai,Student,Low
+43,62.2,178.3,5.65,Yes,Jaipur,Government Employee,Low
+45,40.0,166.4,3.97,No,Delhi,Student,Low
+22,60.8,179.0,8.32,No,Bangalore,Engineer,Low
+65,47.9,173.7,2.19,No,Hyderabad,Other,Low
+42,40.0,145.0,10.46,No,Bangalore,Manager,Low
+32,45.7,164.2,10.94,Yes,Jaipur,Software Developer,Low
+45,40.8,164.1,6.01,No,Ranchi,Engineer,Low
+28,60.9,169.7,3.67,No,Patna,Manager,Low
+21,42.3,179.4,2.12,No,Kolkata,Doctor,Low
+50,54.9,164.7,4.08,Yes,Kolkata,Accountant,Medium
+50,57.6,173.7,6.81,No,Mumbai,Software Developer,Low
+60,40.0,159.9,2.88,No,Hyderabad,Engineer,Low
+20,50.3,169.8,13.35,No,Chennai,Software Developer,Low
+60,56.1,183.2,8.92,No,Pune,Teacher,Low
+40,43.7,150.2,8.17,No,Kolkata,Doctor,Low
+50,52.8,159.0,16.57,Yes,Bangalore,Business,Medium
+22,40.0,153.1,12.04,No,Bangalore,Business,Low
+47,40.0,171.1,11.0,No,Pune,Student,Low
+25,53.0,180.2,2.77,Yes,Pune,Government Employee,Low
+35,52.8,173.9,9.16,No,Patna,Manager,Low
+28,75.3,181.0,18.58,No,Mumbai,Student,Low
+33,41.9,152.0,10.75,No,Mumbai,Business,Low
+43,40.0,173.7,7.91,No,Patna,Accountant,Low
+20,45.9,156.2,7.87,Yes,Kolkata,Government Employee,Medium
+39,64.0,172.8,4.04,No,Ranchi,Doctor,Low
+18,77.8,178.8,6.37,Yes,Mumbai,Manager,Medium
+47,51.2,163.2,4.23,No,Hyderabad,Business,Low
+50,67.1,176.0,1.58,No,Jaipur,Manager,Low
+32,40.6,169.6,6.58,Yes,Ranchi,Business,Medium
+34,52.3,179.1,4.66,Yes,Kolkata,Engineer,Low
+38,40.0,153.0,3.29,No,Kolkata,Doctor,Low
+42,50.1,171.8,3.78,No,Jaipur,Teacher,Low
+43,44.0,149.6,8.87,No,Pune,Government Employee,Low
+26,54.1,180.1,15.01,No,Chennai,Student,Low
+43,51.4,170.4,4.59,No,Ranchi,Manager,Low
+50,52.7,177.4,8.08,No,Patna,Engineer,Low
+22,47.8,164.7,21.63,Yes,Bangalore,Engineer,Low
+64,51.4,168.6,12.3,No,Hyderabad,Business,Low
+34,40.0,155.8,4.58,No,Patna,Teacher,Low
+55,63.4,188.3,6.44,Yes,Hyderabad,Government Employee,Medium
+57,45.9,174.7,2.88,Yes,Mumbai,Student,Medium
+22,44.2,162.1,2.23,No,Jaipur,Government Employee,Low
+51,40.0,165.8,2.95,No,Kolkata,Other,Low
+41,70.0,186.5,7.07,No,Kolkata,Accountant,Low
+50,40.6,161.5,5.08,Yes,Delhi,Engineer,Low
+61,61.7,180.4,13.07,No,Delhi,Teacher,Low
+28,40.0,168.4,4.95,No,Jaipur,Accountant,Low
+32,48.6,155.9,3.01,No,Chennai,Other,Low
+56,59.7,171.0,4.59,No,Bangalore,Accountant,Low
+38,57.2,156.8,1.5,No,Bangalore,Engineer,Low
+45,62.2,172.3,6.0,No,Delhi,Government Employee,Low
+31,45.4,172.5,2.73,No,Mumbai,Software Developer,Low
+65,69.4,172.4,7.1,Yes,Bangalore,Student,Medium
+20,40.0,161.7,10.23,No,Jaipur,Government Employee,Low
+57,40.0,170.4,8.21,No,Bangalore,Software Developer,Low
+54,48.0,176.8,7.5,No,Bangalore,Other,Low
+26,40.0,158.9,11.94,No,Mumbai,Government Employee,Low
+49,66.0,184.6,4.34,Yes,Chennai,Government Employee,Medium
+18,40.0,151.0,6.43,No,Kolkata,Government Employee,Low
+22,41.6,177.5,5.44,Yes,Pune,Software Developer,Low
+54,48.1,166.9,11.33,No,Mumbai,Engineer,Low
+61,43.0,166.8,6.21,Yes,Hyderabad,Software Developer,Medium
+34,54.7,167.4,2.19,Yes,Kolkata,Other,Medium
+33,63.0,169.1,8.03,No,Pune,Manager,Low
+29,59.6,169.9,16.08,No,Mumbai,Other,Low
+20,50.7,173.3,4.67,No,Pune,Engineer,Low
+39,47.4,159.0,3.23,No,Mumbai,Student,Low
+58,49.4,157.0,20.59,No,Hyderabad,Business,Low
+62,45.1,167.3,3.24,Yes,Patna,Software Developer,Low
+36,41.5,157.1,3.3,No,Bangalore,Doctor,Low
+56,43.1,157.8,4.93,No,Jaipur,Student,Low
+24,57.6,178.4,6.07,Yes,Kolkata,Software Developer,Medium
+36,44.6,161.9,7.55,Yes,Chennai,Student,Low
+38,64.0,177.4,12.13,No,Ranchi,Teacher,Low
+61,60.8,167.6,5.31,Yes,Patna,Doctor,Medium
+21,72.6,172.8,12.27,No,Pune,Teacher,Low
+58,61.8,173.8,2.6,No,Delhi,Business,Low
+45,51.1,169.8,4.25,No,Chennai,Teacher,Low
+39,57.3,186.8,17.53,Yes,Bangalore,Business,Low
+20,50.8,166.8,18.07,No,Bangalore,Student,Low
+40,41.1,168.5,7.88,No,Bangalore,Teacher,Low
+29,80.1,177.9,4.38,No,Hyderabad,Software Developer,Low
+52,46.6,167.8,4.18,No,Kolkata,Student,Low
+58,49.6,158.5,8.7,No,Chennai,Other,Low
+53,76.4,191.2,20.78,No,Mumbai,Teacher,Low
+18,47.8,164.0,10.85,No,Pune,Teacher,Low
+65,59.8,174.8,6.83,No,Bangalore,Other,Low
+51,49.2,159.5,5.72,No,Jaipur,Teacher,Low
+41,40.0,167.9,7.25,No,Jaipur,Software Developer,Low
+35,48.0,179.0,7.62,No,Mumbai,Engineer,Low
+49,70.8,183.0,16.48,Yes,Delhi,Manager,Medium
+40,55.1,184.9,5.32,No,Kolkata,Doctor,Low
+49,56.0,155.3,3.11,Yes,Bangalore,Software Developer,Medium
+52,47.3,164.2,11.14,Yes,Chennai,Other,Low
+22,50.8,182.8,3.05,No,Jaipur,Software Developer,Low
+30,48.2,161.2,3.08,No,Delhi,Teacher,Low
+49,58.0,171.6,8.06,No,Jaipur,Government Employee,Low
+34,45.6,173.9,8.49,No,Bangalore,Doctor,Low
+50,45.5,169.8,14.2,No,Chennai,Government Employee,Low
+45,40.0,163.0,2.65,No,Patna,Business,Low
+64,60.3,166.7,8.6,Yes,Mumbai,Manager,Medium
+41,75.0,187.9,5.85,Yes,Ranchi,Government Employee,Medium
+65,45.2,159.0,17.26,No,Patna,Other,Low
+65,50.9,170.1,6.96,No,Kolkata,Government Employee,Low
+46,52.3,177.1,2.08,No,Kolkata,Accountant,Low
+56,57.0,153.4,7.88,No,Patna,Doctor,Low
+34,40.0,157.9,15.67,Yes,Bangalore,Teacher,Low
+45,40.0,167.2,2.99,No,Hyderabad,Accountant,Low
+42,44.2,156.5,17.33,No,Kolkata,Doctor,Low
+63,61.0,178.8,26.26,Yes,Pune,Business,Low
+34,57.0,172.9,2.75,No,Ranchi,Manager,Low
+29,43.9,162.2,20.47,Yes,Mumbai,Manager,Medium
+40,40.0,163.0,10.56,No,Kolkata,Manager,Low
+61,61.9,176.3,8.99,No,Ranchi,Other,Low
+61,61.5,178.1,16.11,No,Pune,Manager,Low
+24,40.5,177.7,3.76,No,Mumbai,Student,Low
+50,44.1,154.3,6.34,No,Bangalore,Manager,Low
+26,59.9,181.5,6.99,No,Mumbai,Other,Low
+43,46.1,165.5,12.28,No,Mumbai,Accountant,Low
+58,54.4,169.0,3.72,No,Ranchi,Other,Low
+53,63.0,173.3,2.52,Yes,Ranchi,Other,Low
+18,79.9,183.8,6.09,Yes,Kolkata,Government Employee,Medium
+49,74.4,176.4,6.76,No,Delhi,Software Developer,Low
+31,68.8,177.7,5.71,Yes,Bangalore,Teacher,Medium
+61,40.0,163.4,1.5,No,Kolkata,Accountant,Low
+37,50.5,176.0,7.63,No,Pune,Software Developer,Low
+52,62.7,167.8,10.7,No,Bangalore,Business,Low
+35,51.8,182.2,13.49,No,Hyderabad,Engineer,Low
+22,40.0,165.8,13.14,Yes,Jaipur,Doctor,Medium
+62,40.0,162.3,2.93,Yes,Hyderabad,Software Developer,Low
+32,57.2,179.2,3.81,No,Chennai,Manager,Low
+61,52.2,170.2,2.08,No,Patna,Engineer,Low
+29,47.0,173.5,2.59,No,Hyderabad,Teacher,Low
+20,46.3,163.1,3.35,No,Chennai,Teacher,Low
+64,58.0,163.9,13.64,Yes,Kolkata,Accountant,Medium
+39,53.9,164.8,3.1,No,Chennai,Manager,Low
+42,51.2,171.0,3.41,No,Jaipur,Doctor,Low
+26,40.0,170.9,12.57,No,Jaipur,Accountant,Low
+59,46.7,167.5,6.5,No,Hyderabad,Student,Low
+59,40.0,167.1,9.37,Yes,Mumbai,Software Developer,Low
+20,43.2,162.5,8.34,Yes,Kolkata,Manager,Low
+23,66.4,165.2,15.21,Yes,Jaipur,Other,Medium
+25,48.9,155.7,1.61,No,Mumbai,Business,Low
+56,40.3,165.7,10.41,No,Jaipur,Other,Low
+61,51.3,166.3,14.23,No,Ranchi,Engineer,Low
+56,53.5,167.4,8.61,Yes,Pune,Government Employee,Medium
+42,50.7,173.5,3.4,Yes,Patna,Teacher,Medium
+33,40.0,174.3,8.62,No,Patna,Accountant,Low
+31,47.0,171.4,4.36,No,Bangalore,Other,Low
+60,48.2,165.8,8.71,No,Bangalore,Business,Low
+32,46.2,169.5,19.29,Yes,Ranchi,Manager,Medium
+46,56.5,178.3,7.07,No,Mumbai,Engineer,Low
+43,40.0,149.3,8.76,No,Delhi,Accountant,Low
+61,41.9,162.5,12.44,No,Patna,Software Developer,Low
+50,61.9,162.8,9.03,No,Kolkata,Teacher,Low
+23,61.1,169.7,7.02,No,Patna,Other,Low
+56,44.9,168.2,4.59,No,Ranchi,Student,Low
+21,67.4,168.3,6.79,No,Delhi,Teacher,Low
+54,43.3,169.8,6.71,No,Mumbai,Accountant,Low
+25,62.0,181.6,3.58,No,Jaipur,Student,Low
+63,56.0,162.0,7.48,No,Ranchi,Business,Low
+20,49.2,167.1,16.25,No,Ranchi,Business,Low
+56,48.8,158.9,9.16,No,Patna,Student,Low
+29,62.0,173.7,14.62,No,Chennai,Engineer,Low
+50,41.2,158.9,18.11,No,Hyderabad,Doctor,Low
+48,58.7,169.4,7.73,No,Patna,Engineer,Low
+52,46.1,173.7,5.8,No,Hyderabad,Student,Low
+32,68.1,184.9,4.46,No,Hyderabad,Manager,Low
+43,48.9,167.6,1.84,No,Jaipur,Other,Low
+45,48.6,176.6,10.61,No,Ranchi,Student,Low
+21,41.7,159.4,17.3,No,Ranchi,Other,Low
+50,50.7,168.8,2.14,No,Bangalore,Government Employee,Low
+54,52.8,161.9,5.23,No,Jaipur,Teacher,Low
+51,40.0,157.9,7.39,No,Jaipur,Doctor,Low
+40,66.8,178.6,6.85,Yes,Jaipur,Manager,Medium
+34,47.8,166.4,7.95,No,Kolkata,Doctor,Low
+40,40.0,157.3,3.03,Yes,Kolkata,Other,Low
+61,52.0,170.2,5.52,No,Patna,Engineer,Low
+65,58.6,162.5,7.83,Yes,Kolkata,Other,Medium
+64,66.7,174.9,11.47,No,Pune,Student,Low
+44,59.9,173.8,3.17,No,Chennai,Other,Low
+29,53.6,177.7,4.1,No,Mumbai,Business,Low
+27,50.0,163.2,5.58,No,Ranchi,Doctor,Low
+49,49.3,167.9,7.59,No,Ranchi,Accountant,Low
+24,40.0,171.9,8.83,No,Jaipur,Software Developer,Low
+50,54.3,178.7,13.35,Yes,Hyderabad,Accountant,Low
+45,62.5,183.1,11.55,No,Pune,Business,Low
+52,40.0,155.4,10.77,Yes,Bangalore,Student,Medium
+22,40.0,154.7,8.08,No,Jaipur,Doctor,Low
+18,42.4,166.4,9.55,No,Chennai,Software Developer,Low
+29,48.3,162.1,21.83,No,Chennai,Government Employee,Low
+41,40.0,145.8,29.05,No,Ranchi,Engineer,Low
+44,54.9,166.2,38.71,No,Mumbai,Doctor,Low
+56,55.8,163.2,4.42,No,Patna,Government Employee,Low
+42,65.3,174.6,3.42,Yes,Kolkata,Engineer,Medium
+57,56.0,172.0,2.92,Yes,Pune,Accountant,Low
+20,57.9,178.5,6.9,No,Jaipur,Business,Low
+62,58.9,181.5,13.74,No,Mumbai,Accountant,Low
+21,42.0,160.4,5.26,No,Delhi,Government Employee,Low
+34,72.1,177.2,2.83,No,Mumbai,Accountant,Low
+22,60.9,168.3,4.75,Yes,Patna,Doctor,Low
+41,49.3,164.0,3.97,No,Jaipur,Student,Low
+40,47.7,173.3,4.26,No,Mumbai,Teacher,Low
+63,76.7,190.7,1.5,No,Hyderabad,Accountant,Low
+62,40.0,159.3,9.66,No,Ranchi,Manager,Low
+36,40.0,164.1,5.64,No,Chennai,Manager,Low
+53,47.3,177.1,2.67,Yes,Hyderabad,Government Employee,Low
+44,40.0,149.3,4.77,No,Chennai,Government Employee,Low
+57,59.5,180.4,8.35,No,Jaipur,Doctor,Low
+39,68.6,181.5,6.51,No,Pune,Engineer,Low
+26,60.8,180.4,1.51,Yes,Delhi,Other,Medium
+28,50.5,155.3,5.25,No,Patna,Manager,Low
+34,43.2,176.2,5.52,No,Kolkata,Software Developer,Low
+20,62.4,186.6,10.19,Yes,Chennai,Software Developer,Low
+56,43.6,158.1,8.39,No,Bangalore,Software Developer,Low
+46,65.4,172.3,18.14,No,Pune,Student,Low
+36,43.8,162.4,8.04,No,Bangalore,Student,Low
+25,53.8,165.1,7.35,Yes,Ranchi,Student,Low
+28,52.0,161.7,22.19,Yes,Pune,Engineer,Medium
+30,46.2,156.0,9.53,No,Chennai,Teacher,Low
+49,64.6,180.3,7.97,No,Mumbai,Engineer,Low
+24,51.0,170.0,4.99,No,Chennai,Doctor,Low
+51,47.2,162.1,4.61,No,Patna,Software Developer,Low
+30,48.0,169.7,13.93,Yes,Bangalore,Other,Medium
+24,51.7,172.0,8.93,No,Pune,Government Employee,Low
+24,48.5,173.6,4.36,Yes,Ranchi,Teacher,Low
+65,40.0,145.5,4.05,No,Jaipur,Student,Low
+65,68.6,173.0,4.62,No,Patna,Government Employee,Low
+55,48.0,172.0,1.77,No,Kolkata,Teacher,Low
+19,45.4,164.5,4.55,Yes,Delhi,Other,Medium
+42,62.4,170.2,2.07,No,Chennai,Other,Low
+48,54.5,174.8,1.77,No,Jaipur,Software Developer,Low
+45,40.0,156.3,7.77,Yes,Kolkata,Business,Medium
+40,62.2,182.7,5.48,No,Kolkata,Manager,Low
+23,40.0,152.2,9.24,No,Chennai,Manager,Low
+52,48.0,173.5,5.35,No,Delhi,Software Developer,Low
+34,44.0,152.8,7.28,No,Kolkata,Manager,Low
+24,49.0,165.0,19.45,No,Jaipur,Student,Low
+32,47.2,167.1,5.3,Yes,Delhi,Software Developer,Medium
+30,45.9,171.6,3.78,No,Kolkata,Engineer,Low
+18,58.5,167.6,7.24,No,Chennai,Government Employee,Low
+49,40.0,163.5,15.63,Yes,Chennai,Engineer,Low
+32,50.4,172.3,8.08,No,Jaipur,Engineer,Low
+37,50.9,174.8,12.18,No,Chennai,Accountant,Low
+62,80.6,169.2,9.26,Yes,Hyderabad,Doctor,Medium
+50,68.6,181.9,2.93,Yes,Pune,Manager,Medium
+32,49.3,167.3,7.96,Yes,Mumbai,Doctor,Medium
+56,52.9,173.3,3.56,No,Kolkata,Other,Low
+27,59.8,174.1,2.8,No,Jaipur,Software Developer,Low
+48,54.0,171.8,5.86,No,Ranchi,Manager,Low
+52,56.4,177.5,17.6,No,Kolkata,Government Employee,Low
+28,56.7,157.0,3.09,No,Jaipur,Teacher,Low
+18,46.7,160.9,9.48,Yes,Jaipur,Accountant,Medium
+41,43.6,164.5,10.9,No,Chennai,Teacher,Low
+62,42.2,169.2,5.29,No,Kolkata,Business,Low
+43,50.3,164.7,4.64,No,Mumbai,Government Employee,Low
+21,43.8,164.8,5.15,No,Patna,Teacher,Low
+35,40.0,151.2,10.48,No,Hyderabad,Doctor,Low
+44,41.1,162.9,4.3,Yes,Mumbai,Doctor,Low
+59,43.0,173.5,5.5,No,Kolkata,Engineer,Low
+18,53.7,187.3,12.7,No,Bangalore,Business,Low
+62,54.1,178.7,6.81,No,Bangalore,Doctor,Low
+53,40.9,157.7,4.75,No,Bangalore,Government Employee,Low
+23,66.5,174.4,1.5,No,Pune,Other,Low
+61,40.3,159.1,14.94,No,Chennai,Student,Low
+21,40.0,156.7,8.13,Yes,Bangalore,Manager,Medium
+42,44.2,154.0,7.06,No,Chennai,Manager,Low
+43,57.2,169.2,1.73,No,Ranchi,Software Developer,Low
+23,57.8,173.9,9.1,No,Jaipur,Engineer,Low
+29,40.0,155.9,8.33,No,Pune,Business,Low
+64,56.1,165.1,5.19,Yes,Chennai,Student,Medium
+54,59.6,161.7,3.63,No,Delhi,Engineer,Low
+45,51.5,155.3,11.67,No,Kolkata,Doctor,Low
+53,50.8,158.8,9.74,No,Jaipur,Student,Low
+64,69.3,182.5,2.62,No,Ranchi,Engineer,Low
+22,40.0,166.3,27.11,No,Mumbai,Accountant,Low
+23,40.0,155.2,16.22,No,Pune,Engineer,Low
+37,40.0,156.8,12.95,No,Bangalore,Government Employee,Low
+26,66.9,187.5,13.58,No,Kolkata,Software Developer,Low
+54,80.6,183.5,4.74,No,Mumbai,Accountant,Low
+58,43.3,171.5,6.55,Yes,Pune,Other,Medium
+45,62.0,173.5,3.05,Yes,Bangalore,Student,Medium
+43,50.9,164.7,2.24,No,Pune,Engineer,Low
+64,48.1,154.4,8.22,No,Hyderabad,Accountant,Low
+20,59.3,157.8,2.65,No,Patna,Teacher,Low
+55,41.0,162.4,4.2,Yes,Hyderabad,Teacher,Low
+34,41.5,160.9,2.17,No,Mumbai,Engineer,Low
+21,48.6,162.5,7.71,No,Mumbai,Government Employee,Low
+56,53.0,173.5,11.84,No,Ranchi,Manager,Low
+32,49.1,181.3,4.24,No,Jaipur,Accountant,Low
+19,60.4,171.3,11.65,No,Ranchi,Manager,Low
+52,40.0,163.6,4.04,No,Bangalore,Engineer,Low
+45,65.2,162.6,26.44,No,Hyderabad,Other,Low
+35,53.3,182.1,6.31,No,Pune,Accountant,Low
+21,62.2,170.6,3.48,No,Chennai,Accountant,Low
+64,82.3,172.1,5.14,Yes,Bangalore,Business,Medium
+54,58.9,164.1,8.6,No,Ranchi,Other,Low
+51,56.0,169.7,3.17,No,Kolkata,Software Developer,Low
+19,62.3,161.0,4.38,No,Kolkata,Accountant,Low
+54,43.0,161.8,2.68,No,Pune,Other,Low
+62,62.8,170.0,15.46,No,Pune,Engineer,Low
+35,48.6,171.4,5.32,No,Pune,Other,Low
+43,40.0,177.3,10.41,Yes,Mumbai,Government Employee,Low
+30,60.9,182.4,5.58,No,Kolkata,Engineer,Low
+50,45.4,166.3,5.56,No,Patna,Other,Low
+48,48.4,166.4,5.71,Yes,Mumbai,Business,Low
+33,54.9,173.8,3.51,No,Patna,Teacher,Low
+54,55.7,179.4,5.06,No,Jaipur,Doctor,Low
+65,57.1,159.7,8.98,No,Jaipur,Software Developer,Low
+64,70.3,183.1,3.38,No,Hyderabad,Manager,Low
+26,62.6,175.6,2.47,No,Mumbai,Engineer,Low
+25,46.0,167.7,7.62,No,Patna,Engineer,Low
+29,48.4,174.1,1.88,Yes,Kolkata,Doctor,Low
+23,68.9,191.0,10.74,No,Kolkata,Student,Low
+54,40.0,161.8,2.42,Yes,Bangalore,Manager,Medium
+29,44.9,154.5,3.93,Yes,Pune,Engineer,Low
+64,52.1,172.0,5.21,No,Chennai,Teacher,Low
+50,52.3,170.0,3.21,No,Kolkata,Engineer,Low
+21,44.4,151.8,4.81,Yes,Chennai,Business,Medium
+33,41.7,167.5,3.67,Yes,Ranchi,Student,Medium
+57,50.9,165.6,8.36,Yes,Delhi,Accountant,Medium
+25,48.6,165.7,3.46,No,Chennai,Manager,Low
+64,48.2,173.2,5.42,No,Kolkata,Teacher,Low
+33,63.3,187.3,9.59,Yes,Patna,Teacher,Low
+31,66.9,188.4,13.29,Yes,Patna,Doctor,Low
+59,55.2,161.2,6.57,No,Kolkata,Business,Low
+62,50.4,172.4,2.6,No,Kolkata,Government Employee,Low
+63,52.0,173.8,40.0,Yes,Jaipur,Teacher,Low
+19,45.6,158.3,5.88,Yes,Ranchi,Government Employee,Low
+26,55.8,170.9,4.94,No,Patna,Government Employee,Low
+52,75.7,184.2,3.32,No,Bangalore,Government Employee,Low
+41,40.0,152.6,4.32,No,Kolkata,Government Employee,Low
+37,62.7,177.8,2.8,No,Hyderabad,Accountant,Low
+23,41.7,167.9,2.84,No,Bangalore,Business,Low
+22,65.7,172.8,3.33,No,Mumbai,Teacher,Low
+52,51.9,153.1,6.75,No,Ranchi,Business,Low
+54,51.5,155.1,7.15,No,Jaipur,Accountant,Low
+64,46.4,164.1,7.91,Yes,Jaipur,Business,Medium
+58,48.3,155.9,1.98,No,Delhi,Accountant,Low
+52,63.4,171.0,3.37,No,Delhi,Student,Low
+47,42.7,162.9,8.28,No,Mumbai,Business,Low
+56,42.8,161.0,1.68,No,Jaipur,Other,Low
+52,68.7,184.6,3.33,No,Bangalore,Other,Low
+56,62.4,180.5,23.28,Yes,Hyderabad,Accountant,High
+45,40.0,170.1,15.54,No,Kolkata,Doctor,Low
+46,51.8,178.7,5.31,Yes,Bangalore,Student,Low
+42,62.1,191.4,4.17,No,Ranchi,Software Developer,Low
+26,41.3,145.0,8.59,No,Hyderabad,Accountant,Low
+31,62.9,184.2,7.09,No,Hyderabad,Business,Low
+25,40.0,154.3,7.07,No,Jaipur,Business,Low
+26,51.4,148.6,4.72,Yes,Patna,Accountant,Medium
+39,64.3,170.6,4.09,No,Chennai,Accountant,Low
+61,49.8,160.8,7.95,No,Jaipur,Other,Low
+55,53.9,165.0,2.51,No,Jaipur,Teacher,Low
+29,51.4,158.4,5.79,No,Ranchi,Manager,Low
+51,60.0,169.3,14.9,Yes,Patna,Business,Medium
+51,40.0,148.2,11.16,No,Delhi,Accountant,Low
+27,40.0,152.3,4.25,No,Delhi,Engineer,Low
+24,40.0,158.1,3.79,Yes,Mumbai,Student,Low
+24,65.7,178.8,3.35,Yes,Pune,Teacher,Low
+47,62.5,177.4,12.19,Yes,Chennai,Business,Medium
+36,62.4,162.9,3.69,No,Chennai,Doctor,Low
+27,58.0,162.8,4.08,No,Bangalore,Accountant,Low
+42,40.9,170.9,4.02,Yes,Chennai,Other,Low
+38,40.0,169.2,3.43,Yes,Pune,Government Employee,Medium
+36,56.3,174.7,12.31,Yes,Ranchi,Other,Medium
+40,59.5,174.5,9.33,No,Kolkata,Doctor,Low
+25,60.4,169.8,4.87,No,Pune,Engineer,Low
+59,57.0,167.4,6.29,No,Delhi,Teacher,Low
+52,49.8,167.3,13.78,No,Bangalore,Engineer,Low
+38,58.6,179.1,9.13,No,Delhi,Teacher,Low
+19,56.6,181.0,4.91,No,Chennai,Teacher,Low
+39,40.3,158.0,11.72,No,Patna,Accountant,Low
+63,55.5,162.3,4.04,Yes,Hyderabad,Student,Medium
+18,41.3,156.0,3.93,Yes,Hyderabad,Engineer,Low
+45,52.8,153.9,4.84,No,Ranchi,Software Developer,Low
+47,47.1,163.0,4.85,Yes,Hyderabad,Accountant,Medium
+26,54.7,169.0,9.01,No,Jaipur,Student,Low
+26,75.0,183.0,5.21,No,Delhi,Government Employee,Low
+27,51.5,166.6,5.63,Yes,Chennai,Doctor,Medium
+22,67.9,182.5,1.95,Yes,Pune,Manager,Low
+50,48.4,156.5,6.59,No,Bangalore,Manager,Low
+19,60.2,163.3,5.76,No,Mumbai,Student,Low
+22,46.2,156.0,15.94,No,Patna,Doctor,Low
+54,51.2,173.1,6.77,No,Ranchi,Government Employee,Low
+46,48.8,154.0,1.79,Yes,Patna,Government Employee,Medium
+35,51.8,161.8,2.79,No,Patna,Business,Low
+37,40.5,163.9,2.46,No,Pune,Business,Low
+20,52.1,167.7,6.94,No,Mumbai,Student,Low
+23,47.6,157.7,13.27,No,Bangalore,Manager,Low
+31,51.0,183.1,2.34,Yes,Mumbai,Software Developer,Low
+63,49.5,170.5,10.69,Yes,Kolkata,Government Employee,Low
+32,57.2,172.4,9.65,No,Chennai,Government Employee,Low
+42,46.1,177.4,3.21,No,Mumbai,Doctor,Low
+45,40.0,156.7,2.56,No,Patna,Student,Low
+39,69.6,172.8,5.21,No,Patna,Accountant,Low
+52,40.0,154.8,6.7,Yes,Chennai,Manager,Low
+19,60.8,175.5,32.96,No,Pune,Teacher,Low
+48,56.7,178.9,5.82,Yes,Bangalore,Business,Medium
+64,55.4,183.0,4.59,Yes,Ranchi,Accountant,Medium
+54,44.2,163.9,6.64,No,Delhi,Software Developer,Low
+43,40.0,160.0,12.7,No,Pune,Business,Low
+43,57.1,176.1,8.23,No,Bangalore,Accountant,Low
+41,53.0,159.9,4.2,No,Pune,Engineer,Low
+50,61.2,162.2,5.36,No,Mumbai,Student,Low
+44,53.4,174.5,5.63,No,Kolkata,Government Employee,Low
+55,48.0,155.8,16.68,No,Chennai,Doctor,Low
+39,51.0,178.5,20.24,No,Ranchi,Government Employee,Low
+62,50.4,174.5,4.93,No,Patna,Teacher,Low
+47,61.6,174.4,3.02,No,Patna,Government Employee,Low
+23,66.9,171.8,1.53,No,Ranchi,Government Employee,Low
+42,61.5,175.4,6.58,Yes,Bangalore,Software Developer,Medium
+23,81.1,191.7,4.47,No,Jaipur,Teacher,Low
+54,56.8,165.1,7.08,No,Ranchi,Other,Low
+28,62.0,191.0,5.22,No,Jaipur,Other,Low
+40,59.7,171.3,5.83,No,Delhi,Software Developer,Low
+46,58.8,165.5,6.31,No,Chennai,Student,Low
+48,65.3,169.7,4.24,Yes,Patna,Business,Medium
+21,43.3,162.0,5.0,Yes,Kolkata,Other,Medium
+45,41.1,163.0,4.57,No,Ranchi,Engineer,Low
+64,40.0,159.6,6.73,No,Bangalore,Business,Low
+61,57.7,170.8,21.37,No,Hyderabad,Teacher,Low
+20,46.9,174.1,24.51,No,Jaipur,Engineer,Low
+39,40.0,172.1,2.15,No,Jaipur,Engineer,Low
+33,40.0,158.8,6.14,Yes,Jaipur,Teacher,Medium
+26,71.9,186.1,21.11,No,Kolkata,Teacher,Low
+37,44.0,163.1,6.31,No,Hyderabad,Software Developer,Low
+53,58.7,158.6,7.59,Yes,Patna,Government Employee,Medium
+41,50.1,181.9,8.37,Yes,Pune,Accountant,Medium
+49,58.3,174.4,9.81,No,Ranchi,Teacher,Low
+40,51.9,166.5,26.28,No,Delhi,Manager,Low
+47,66.3,176.4,6.38,No,Chennai,Accountant,Low
+54,46.5,166.7,4.09,No,Delhi,Government Employee,Low
+61,55.9,184.7,1.5,No,Patna,Teacher,Low
+65,43.9,166.6,6.12,No,Delhi,Business,Low
+56,55.3,168.7,11.06,No,Hyderabad,Student,Low
+41,40.0,159.2,4.43,No,Delhi,Student,Low
+31,44.7,165.3,9.68,No,Bangalore,Software Developer,Low
+28,66.0,177.8,4.39,Yes,Patna,Engineer,Medium
+25,46.1,161.8,1.5,Yes,Jaipur,Doctor,Low
+54,40.5,158.4,2.85,No,Mumbai,Accountant,Low
+51,72.8,188.9,12.84,No,Chennai,Doctor,Low
+45,57.2,175.8,4.93,No,Delhi,Student,Low
+57,56.7,168.3,8.48,No,Jaipur,Doctor,Low
+62,46.7,170.0,4.71,No,Patna,Software Developer,Low
+50,53.0,165.5,3.6,No,Mumbai,Student,Low
+61,51.4,178.3,18.82,No,Kolkata,Teacher,Low
+21,76.5,183.8,2.17,No,Jaipur,Software Developer,Low
+29,68.2,167.4,11.39,No,Patna,Business,Low
+57,68.1,162.5,5.69,No,Hyderabad,Student,Low
+19,40.0,152.7,3.39,No,Patna,Accountant,Low
+37,40.0,159.1,3.61,Yes,Patna,Business,Low
+33,56.1,160.0,6.53,No,Chennai,Accountant,Low
+55,40.0,158.1,3.99,No,Delhi,Government Employee,Low
+40,42.4,162.1,4.57,No,Bangalore,Software Developer,Low
+55,57.8,181.4,8.71,No,Jaipur,Teacher,Low
+20,40.0,175.8,3.29,Yes,Bangalore,Accountant,Low
+49,40.0,153.7,8.54,No,Bangalore,Accountant,Low
+43,52.0,167.1,4.33,No,Pune,Business,Low
+35,49.0,173.6,8.19,No,Delhi,Business,Low
+33,49.3,165.5,4.73,No,Hyderabad,Manager,Low
+39,40.0,158.2,10.64,No,Delhi,Other,Low
+47,40.0,150.0,8.77,No,Ranchi,Business,Low
+57,40.0,160.4,3.35,No,Pune,Other,Low
+19,40.0,161.7,12.98,No,Chennai,Software Developer,Low
+52,55.9,170.4,6.87,No,Jaipur,Government Employee,Low
+59,53.4,167.4,4.46,No,Delhi,Teacher,Low
+60,59.9,178.7,11.14,Yes,Ranchi,Accountant,Medium
+46,42.7,164.7,2.41,No,Patna,Other,Low
+39,45.1,156.5,11.47,Yes,Chennai,Government Employee,Medium
+49,54.5,158.0,7.53,No,Chennai,Government Employee,Low
+51,57.1,168.1,4.74,No,Patna,Government Employee,Low
+42,53.1,180.5,4.66,No,Kolkata,Student,Low
+18,59.7,176.4,5.45,No,Chennai,Accountant,Low
+27,46.0,154.0,9.93,No,Pune,Other,Low
+34,44.0,172.1,21.9,No,Patna,Manager,Low
+40,70.2,183.6,4.11,No,Pune,Business,Low
+30,40.2,164.7,4.23,No,Delhi,Software Developer,Low
+59,45.1,164.9,7.11,No,Kolkata,Student,Low
+30,43.1,168.3,7.99,Yes,Delhi,Teacher,Low
+42,55.7,171.4,4.7,No,Mumbai,Manager,Low
+35,52.2,155.3,21.19,No,Delhi,Software Developer,Low
+45,71.2,176.5,14.25,Yes,Bangalore,Government Employee,Medium
+23,62.6,167.7,5.88,No,Delhi,Other,Low
+20,55.0,168.2,28.77,No,Hyderabad,Business,Low
+55,63.2,163.0,10.31,No,Hyderabad,Student,Low
+56,40.0,163.1,8.3,No,Jaipur,Other,Low
+54,79.0,174.3,10.79,No,Bangalore,Other,Low
+49,65.6,184.4,3.74,Yes,Pune,Doctor,Medium
+40,46.2,165.8,6.16,No,Kolkata,Software Developer,Low
+32,63.3,177.8,9.01,No,Kolkata,Student,Low
+39,47.6,170.0,3.11,No,Ranchi,Student,Low
+49,61.6,174.7,15.72,No,Kolkata,Business,Low
+46,52.4,176.7,8.0,No,Bangalore,Business,Low
+65,40.0,165.2,1.89,No,Bangalore,Teacher,Low
+65,49.3,177.6,1.71,Yes,Jaipur,Manager,Low
+63,40.0,163.0,5.56,No,Hyderabad,Engineer,Low
+41,60.1,165.9,6.06,No,Delhi,Student,Low
+30,53.7,183.3,16.58,No,Ranchi,Software Developer,Low
+56,50.6,163.1,3.7,Yes,Kolkata,Government Employee,Medium
+36,55.4,167.2,13.29,No,Mumbai,Business,Low
+37,49.7,173.7,5.35,No,Hyderabad,Government Employee,Low
+59,53.4,175.9,4.43,No,Patna,Engineer,Low
+21,64.2,179.6,6.07,No,Kolkata,Doctor,Low
+54,76.6,190.4,1.5,No,Bangalore,Student,Low
+20,56.6,175.7,8.43,No,Delhi,Student,Low
+19,42.7,173.2,2.0,No,Chennai,Manager,Low
+43,57.4,187.5,3.49,No,Bangalore,Accountant,Low
+52,48.7,168.5,10.46,No,Hyderabad,Student,Low
+39,50.2,153.2,3.82,No,Pune,Accountant,Low
+31,71.5,182.1,16.74,No,Patna,Manager,Low
+48,48.0,167.8,2.78,No,Chennai,Teacher,Low
+34,61.0,176.3,17.84,No,Patna,Doctor,Low
+62,55.2,168.7,6.18,Yes,Jaipur,Software Developer,Medium
+35,41.5,174.6,7.26,No,Mumbai,Doctor,Low
+49,48.3,161.5,4.95,No,Hyderabad,Accountant,Low
+62,43.5,173.1,6.65,No,Pune,Teacher,Low
+52,71.4,178.6,4.03,No,Chennai,Government Employee,Low
+52,58.3,169.7,6.32,No,Ranchi,Student,Low
+56,40.0,166.1,16.86,No,Mumbai,Doctor,Low
+45,48.9,162.1,2.86,No,Mumbai,Teacher,Low
+59,42.7,159.1,10.37,No,Chennai,Software Developer,Low
+31,40.0,158.6,8.26,No,Chennai,Engineer,Low
+48,45.7,151.5,4.84,No,Delhi,Doctor,Low
+56,58.4,170.2,3.73,No,Hyderabad,Government Employee,Low
+57,65.0,177.2,5.33,No,Jaipur,Accountant,Low
+41,86.5,182.2,8.02,No,Delhi,Engineer,Low
+65,48.4,156.5,3.29,Yes,Hyderabad,Manager,Medium
+32,50.8,154.6,17.29,Yes,Ranchi,Manager,Medium
+45,61.8,184.2,4.14,No,Jaipur,Student,Low
+49,63.1,167.8,4.59,No,Delhi,Teacher,Low
+58,60.9,156.4,3.07,No,Delhi,Business,Low
+18,52.3,170.5,4.27,No,Kolkata,Engineer,Low
+65,59.7,160.3,2.88,No,Kolkata,Engineer,Medium
+58,40.0,169.7,2.44,Yes,Chennai,Manager,Low
+52,59.4,172.1,15.85,Yes,Mumbai,Business,Medium
+61,54.9,173.0,1.76,No,Mumbai,Student,Low
+39,42.8,160.6,7.23,Yes,Patna,Business,Low
+28,68.7,176.6,5.77,Yes,Pune,Engineer,Medium
+40,40.0,164.0,7.78,No,Chennai,Business,Low
+33,67.6,174.3,8.99,Yes,Bangalore,Government Employee,Medium
+25,72.7,175.4,8.04,No,Mumbai,Manager,Low
+38,58.3,169.1,6.93,No,Kolkata,Other,Low
+50,54.4,171.4,2.81,No,Kolkata,Student,Low
+56,40.0,161.2,3.13,Yes,Mumbai,Teacher,Low
+40,46.4,158.8,4.05,Yes,Ranchi,Teacher,Medium
+40,40.0,158.6,1.89,No,Mumbai,Engineer,Low
+25,68.7,182.8,6.79,No,Jaipur,Engineer,Low
+38,55.3,174.1,1.5,No,Bangalore,Doctor,Low
+42,55.5,173.0,4.37,No,Pune,Other,Low
+43,61.5,177.8,5.22,No,Pune,Accountant,Low
+19,44.2,156.1,4.7,No,Chennai,Accountant,Low
+36,69.1,176.8,14.23,No,Delhi,Accountant,Low
+37,45.2,179.3,10.88,Yes,Mumbai,Engineer,Medium
+44,61.8,168.3,4.14,No,Hyderabad,Software Developer,Low
+60,64.5,165.2,4.24,No,Ranchi,Business,Low
+34,40.0,159.7,18.78,Yes,Patna,Business,Low
+51,54.3,164.1,14.77,No,Jaipur,Engineer,Low
+44,58.3,169.4,9.49,Yes,Jaipur,Other,Medium
+22,45.7,162.9,7.46,No,Hyderabad,Engineer,Low
+63,53.1,161.4,4.1,No,Hyderabad,Business,Low
+45,40.0,153.0,3.91,Yes,Chennai,Student,Low
+24,58.4,190.0,1.92,No,Ranchi,Government Employee,Low
+19,40.0,151.2,1.93,No,Bangalore,Accountant,Low
+34,61.0,173.1,1.5,No,Pune,Student,Low
+24,47.3,175.3,14.39,No,Pune,Software Developer,Low
+55,64.5,168.1,8.14,Yes,Jaipur,Accountant,Medium
+44,40.0,163.6,13.01,No,Bangalore,Other,Low
+31,62.7,173.4,10.32,No,Delhi,Doctor,Low
+48,52.2,170.5,8.91,No,Chennai,Doctor,Low
+33,43.2,155.7,15.41,No,Mumbai,Other,Low
+65,40.0,165.1,1.67,No,Jaipur,Manager,Low
+50,41.4,164.4,5.75,Yes,Pune,Manager,Low
+30,60.2,166.7,12.03,No,Mumbai,Accountant,Low
+47,61.6,172.8,3.33,No,Chennai,Accountant,Low
+64,40.0,167.5,2.86,No,Chennai,Other,Low
+36,47.9,162.4,4.29,No,Pune,Student,Low
+49,43.9,166.3,7.22,Yes,Chennai,Other,Low
+46,66.5,174.4,7.37,No,Chennai,Student,Low
+46,54.2,162.4,2.46,No,Delhi,Engineer,Low
+61,58.3,186.7,6.34,No,Mumbai,Manager,Low
+58,40.0,156.3,18.77,Yes,Kolkata,Doctor,Low
+45,44.2,170.9,12.12,No,Kolkata,Manager,Low
+20,50.5,169.6,11.33,No,Pune,Manager,Low
+25,56.3,168.5,10.36,No,Chennai,Business,Low
+49,46.4,162.5,11.7,No,Mumbai,Teacher,Low
+25,44.6,153.5,19.42,No,Hyderabad,Government Employee,Low
+25,68.8,178.8,5.65,No,Ranchi,Student,Low
+27,52.4,167.5,15.26,No,Pune,Manager,Low
+42,41.2,172.2,10.02,No,Chennai,Government Employee,Low
+49,62.7,166.2,6.59,No,Mumbai,Student,Low
+37,70.3,167.7,5.87,No,Jaipur,Student,Low
+28,41.5,161.4,6.97,No,Chennai,Software Developer,Low
+65,61.1,177.0,3.79,No,Delhi,Business,Low
+48,42.5,161.9,2.04,Yes,Mumbai,Student,Low
+22,67.7,181.5,5.54,No,Delhi,Doctor,Low
+41,52.7,175.7,5.1,Yes,Patna,Other,Low
+53,55.8,162.2,4.2,No,Bangalore,Government Employee,Low
+34,53.6,171.7,8.65,No,Patna,Manager,Low
+41,46.5,164.0,6.39,No,Bangalore,Accountant,Low
+47,55.3,168.5,6.82,No,Patna,Engineer,Low
+37,48.4,161.7,5.75,Yes,Jaipur,Engineer,Medium
+54,51.7,167.9,13.76,No,Ranchi,Other,Low
+21,71.0,181.2,2.01,No,Hyderabad,Other,Low
+61,61.6,168.2,8.62,No,Pune,Software Developer,Low
+25,56.5,173.7,8.16,No,Jaipur,Other,Low
+27,44.1,168.7,2.74,No,Mumbai,Government Employee,Low
+21,52.9,173.4,5.63,No,Chennai,Accountant,Low
+30,52.5,152.2,22.79,No,Pune,Doctor,Low
+35,43.9,173.4,8.16,No,Bangalore,Manager,Low
+18,58.2,169.5,9.25,No,Chennai,Government Employee,Low
+53,52.3,168.7,6.84,No,Bangalore,Other,Low
+63,70.2,175.5,7.28,No,Ranchi,Teacher,Low
+36,62.8,183.7,8.05,No,Chennai,Other,Low
+41,78.6,182.3,7.83,No,Pune,Software Developer,Low
+19,58.7,181.8,10.87,No,Chennai,Teacher,Low
+23,53.4,171.4,11.94,No,Delhi,Other,Low
+37,60.7,171.1,8.75,No,Pune,Doctor,Low
+45,40.0,155.0,3.37,Yes,Pune,Doctor,Medium
+41,57.0,173.5,4.31,Yes,Pune,Business,Low
+43,40.0,166.0,5.81,No,Pune,Business,Low
+33,67.1,171.6,7.42,No,Jaipur,Manager,Low
+18,72.9,159.9,11.96,Yes,Bangalore,Accountant,Medium
+65,63.8,166.6,21.36,No,Hyderabad,Software Developer,Low
+58,46.3,168.2,11.58,No,Patna,Government Employee,Low
+31,59.0,162.8,2.79,No,Jaipur,Engineer,Low
+61,45.3,170.3,7.73,No,Chennai,Manager,Low
+64,40.0,155.2,9.35,No,Mumbai,Student,Low
+39,53.1,172.4,6.81,No,Hyderabad,Government Employee,Low
+27,50.6,169.8,11.78,No,Ranchi,Other,Low
+31,58.7,170.4,2.84,No,Jaipur,Other,Low
+19,51.3,169.7,2.24,No,Mumbai,Government Employee,Low
+53,55.6,177.3,19.75,No,Pune,Engineer,Low
+60,69.0,184.6,7.41,No,Bangalore,Other,Low
+62,68.1,169.1,6.77,No,Patna,Business,Low
+42,46.7,169.7,9.27,No,Pune,Student,Low
+22,40.0,169.8,11.86,No,Bangalore,Doctor,Low
+22,40.0,183.5,1.78,No,Chennai,Accountant,Low
+43,57.9,161.6,8.11,No,Mumbai,Engineer,Low
+19,49.2,175.5,3.57,No,Hyderabad,Software Developer,Low
+45,47.4,173.8,2.68,No,Ranchi,Business,Low
+61,51.9,167.4,9.94,No,Delhi,Software Developer,Low
+44,71.4,191.2,3.91,No,Kolkata,Teacher,Low
+48,42.5,160.6,6.18,No,Ranchi,Teacher,Low
+57,55.4,173.9,12.75,Yes,Pune,Business,Medium
+60,53.4,178.8,3.78,No,Pune,Government Employee,Low
+65,41.0,154.3,3.29,Yes,Mumbai,Business,Medium
+59,41.8,168.6,13.41,Yes,Kolkata,Teacher,Low
+47,48.4,164.5,8.32,No,Jaipur,Other,Low
+41,56.4,175.5,3.78,No,Pune,Manager,Low
+62,40.0,163.3,4.84,Yes,Ranchi,Student,Low
+26,40.0,149.7,3.14,No,Kolkata,Manager,Low
+51,54.5,165.1,4.47,No,Mumbai,Teacher,Low
+43,55.3,168.4,9.77,No,Patna,Accountant,Low
+23,61.3,171.6,2.42,No,Mumbai,Student,Low
+20,49.3,148.6,4.98,No,Bangalore,Accountant,Low
+19,47.4,162.4,6.17,No,Jaipur,Business,Low
+18,43.4,165.3,3.17,No,Hyderabad,Other,Low
+24,40.0,154.7,7.2,No,Kolkata,Manager,Low
+26,72.8,177.0,7.97,No,Chennai,Engineer,Low
+22,47.4,184.2,9.34,No,Pune,Government Employee,Low
+30,49.4,178.9,3.31,Yes,Hyderabad,Other,Low
+37,43.7,157.0,9.91,No,Hyderabad,Other,Low
+30,52.1,171.0,8.88,No,Jaipur,Teacher,Low
+52,61.2,180.7,10.39,No,Chennai,Accountant,Low
+55,44.6,166.7,13.52,No,Kolkata,Teacher,Low
+57,49.0,165.8,5.13,Yes,Delhi,Other,Medium
+52,40.0,150.1,9.09,No,Mumbai,Teacher,Low
+39,61.6,175.9,6.38,No,Jaipur,Other,Low
+57,41.4,171.8,13.72,No,Patna,Doctor,Low
+43,52.8,166.0,3.2,No,Pune,Engineer,Low
+51,54.8,168.0,5.12,No,Delhi,Other,Low
+45,59.2,168.3,10.5,No,Mumbai,Engineer,Low
+18,51.4,177.5,3.46,No,Delhi,Software Developer,Low
+29,60.6,171.1,14.35,No,Ranchi,Manager,Low
+30,50.3,164.6,2.21,No,Hyderabad,Student,Low
+52,54.1,164.9,6.57,Yes,Patna,Engineer,Medium
+22,46.1,157.1,6.61,No,Pune,Software Developer,Low
+33,51.0,171.4,6.9,No,Jaipur,Software Developer,Low
+29,40.7,176.7,9.96,No,Delhi,Software Developer,Low
+22,44.2,168.5,4.59,No,Ranchi,Manager,Low
+59,49.5,176.4,16.87,Yes,Patna,Doctor,Medium
+38,61.7,165.4,3.25,No,Hyderabad,Other,Low
+25,53.7,181.8,8.11,No,Jaipur,Government Employee,Low
+29,53.5,167.7,9.83,No,Jaipur,Accountant,Low
+43,48.0,170.5,19.95,No,Patna,Government Employee,Low
+46,65.2,168.4,8.9,No,Hyderabad,Doctor,Low
+35,40.0,160.3,11.67,No,Mumbai,Doctor,Low
+21,40.0,168.8,8.31,No,Mumbai,Engineer,Low
+41,51.2,170.1,13.25,No,Mumbai,Manager,Low
+57,46.9,161.0,4.05,No,Kolkata,Accountant,Low
+54,41.3,159.2,17.94,No,Delhi,Teacher,Low
+64,52.8,170.6,3.1,No,Hyderabad,Engineer,Low
+18,48.7,176.9,3.26,No,Chennai,Student,Low
+37,57.3,163.7,6.23,No,Chennai,Software Developer,Low
+23,54.9,181.0,16.13,No,Hyderabad,Engineer,Low
+42,47.6,175.1,7.12,No,Jaipur,Manager,Low
+48,54.3,177.6,9.89,No,Delhi,Engineer,Low
+46,49.1,174.5,6.33,No,Jaipur,Accountant,Low
+36,40.0,164.5,4.91,No,Jaipur,Student,Low
+45,44.9,160.4,7.87,No,Delhi,Business,Low
+54,53.5,167.4,1.84,No,Bangalore,Business,Low
+47,43.7,160.8,8.08,Yes,Chennai,Teacher,Low
+62,46.3,166.4,6.91,No,Jaipur,Accountant,Low
+53,61.3,183.9,8.06,No,Mumbai,Manager,Low
+57,40.0,162.8,6.22,No,Pune,Government Employee,Low
+20,40.0,174.1,2.24,No,Chennai,Engineer,Low
+56,42.4,170.7,1.73,No,Patna,Teacher,Low
+46,66.2,182.2,9.82,No,Mumbai,Business,Low
+54,51.4,168.3,7.3,Yes,Mumbai,Teacher,Medium
+19,51.6,158.3,5.85,No,Kolkata,Business,Low
+28,46.0,167.8,4.26,No,Pune,Business,Low
+62,42.0,158.8,13.78,No,Hyderabad,Government Employee,Low
+36,48.8,168.9,2.55,No,Bangalore,Government Employee,Low
+41,40.0,176.5,3.2,Yes,Jaipur,Doctor,Low
+53,45.5,179.9,5.65,Yes,Bangalore,Doctor,Low
+45,82.3,174.3,7.4,No,Pune,Engineer,Low
+19,56.5,165.7,1.5,Yes,Ranchi,Other,Medium
+41,54.9,171.5,1.5,No,Kolkata,Business,Low
+43,68.2,184.3,5.28,No,Mumbai,Government Employee,Low
+30,61.5,174.5,5.64,No,Mumbai,Government Employee,Low
+43,56.2,172.8,8.69,No,Jaipur,Engineer,Low
+40,45.2,165.7,1.69,No,Patna,Student,Low
+64,54.1,161.5,17.73,No,Patna,Engineer,Low
+44,57.6,177.9,1.53,No,Patna,Accountant,Low
+51,63.2,177.8,18.85,Yes,Bangalore,Software Developer,Medium
+33,62.0,166.8,3.16,Yes,Ranchi,Manager,Medium
+63,55.9,176.3,3.43,No,Mumbai,Other,Low
+53,49.7,162.0,10.29,No,Delhi,Teacher,Low
+29,46.3,157.0,4.8,No,Jaipur,Teacher,Low
+34,56.1,169.6,12.24,No,Delhi,Engineer,Low
+47,54.4,180.6,1.74,No,Chennai,Accountant,Low
+49,53.4,177.3,5.78,Yes,Hyderabad,Engineer,Medium
+46,68.6,187.4,6.89,No,Ranchi,Software Developer,Low
+44,49.2,165.2,9.59,No,Jaipur,Teacher,Low
+56,46.6,167.3,5.76,No,Delhi,Doctor,Low
+55,52.4,166.2,4.16,No,Patna,Student,Low
+25,47.7,166.1,5.41,No,Bangalore,Student,Low
+56,47.8,157.6,3.21,No,Jaipur,Government Employee,Low
+53,45.2,165.8,8.14,Yes,Bangalore,Software Developer,Low
+58,45.3,168.9,7.53,No,Bangalore,Doctor,Low
+23,63.9,164.6,1.5,No,Chennai,Doctor,Low
+54,53.8,169.4,10.67,No,Jaipur,Other,Low
+65,72.6,170.0,7.57,No,Jaipur,Business,Low
+28,58.6,179.0,2.2,No,Kolkata,Accountant,Low
+39,48.1,162.9,4.65,No,Kolkata,Teacher,Low
+53,40.0,163.6,1.5,Yes,Bangalore,Accountant,Medium
+61,60.9,186.1,13.34,No,Patna,Government Employee,Low
+36,55.0,167.1,2.98,No,Hyderabad,Accountant,Low
+50,45.3,167.7,5.12,No,Hyderabad,Accountant,Low
+58,47.1,166.0,10.73,No,Pune,Manager,Low
+18,52.6,168.1,2.95,No,Bangalore,Student,Low
+18,49.8,159.3,19.71,Yes,Chennai,Other,Medium
+43,40.0,159.3,15.79,No,Ranchi,Doctor,Low
+18,57.3,163.4,3.43,No,Mumbai,Other,Low
+64,64.2,178.9,4.98,No,Jaipur,Student,Low
+43,42.7,157.9,5.97,No,Chennai,Engineer,Low
+33,59.6,168.0,2.05,No,Kolkata,Government Employee,Low
+51,57.9,160.5,3.76,No,Patna,Student,Low
+18,40.0,151.4,7.86,No,Pune,Software Developer,Low
+33,60.1,165.8,6.29,No,Mumbai,Other,Low
+40,59.5,167.5,2.41,No,Mumbai,Student,Low
+29,50.5,165.3,10.4,No,Patna,Engineer,Low
+47,45.9,173.2,2.45,No,Delhi,Teacher,Low
+25,64.1,168.4,3.46,No,Ranchi,Software Developer,Low
+27,62.9,159.2,6.88,No,Chennai,Engineer,Low
+52,44.2,166.6,6.82,No,Bangalore,Business,Low
+65,47.8,167.6,8.71,No,Bangalore,Manager,Low
+22,57.7,179.7,3.53,No,Mumbai,Other,Low
+30,62.6,180.0,4.04,No,Mumbai,Other,Low
+41,52.0,168.5,4.5,No,Bangalore,Manager,Low
